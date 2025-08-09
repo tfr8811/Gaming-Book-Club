@@ -3,6 +3,7 @@
 Short Games (15min-4hours length) that we play like a book club would.
 
 
+
 * The Beginner's Guide
 * The Stanley Parable
 * Zelle
@@ -53,3 +54,27 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Nepenthe
 * Nix Umbra
 * No One Lives Under The Lighthouse
+* Plug \& Play
+* The Count Lucanor
+* OK/NORMAL
+* Hylics
+* Bubsy3D.com (FREE)
+* Abobo's Big Adventure (FREE)
+* Anatomy
+* NaissanceE (FREE)
+* 2:22 AM (FREE)
+* Interior Worlds
+* Dreamcore
+* ENA Dream BBQ (FREE)
+* Noctis (FREE)
+* Mouthwashing
+* Tales From Off Peak City
+* Kid A Mnesia Exhibition (Free)
+* The Norwood Suite
+* 10 Beautiful Postcards
+* A Short Hike
+* The Unfinished Swan
+* Despelote
+* Goblet Grotto (FREE)
+* Indika
+* Iron Lung
