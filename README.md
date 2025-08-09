@@ -16,4 +16,4 @@ Short Games (5min-4hours length) that we play like a book club would.
 * FNAF
 * Dear Esther
 * Pushing It (Free)
-* Pom Gets Wifi
+* Pom Gets Wifi (Free)
