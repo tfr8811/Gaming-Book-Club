@@ -40,3 +40,16 @@ Short Games (15min-4hours length) that we play like a book club would.
 * If On a Winter's Night, Four Travelers (Free)
 * Isolomus
 * ITTA
+* Kalidazkoph
+* Knock Knock
+* Kowloon's Curse: Lost Report (Free)
+* A List of People Who Went Missing in the Scheleirland National Forest
+* Anthology of the Killer
+* Loom
+* Loplight
+* Me and My Eldritch Parasite
+* Milky Way Prince
+* A Museum of Dubious Splendors (Free)
+* Nepenthe
+* Nix Umbra
+* No One Lives Under The Lighthouse
