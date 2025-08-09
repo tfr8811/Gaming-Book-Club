@@ -1,6 +1,6 @@
 # Gaming-Book-Club
 
-Short Games (5min-4hours length) that we play like a book club would.
+Short Games (15min-4hours length) that we play like a book club would.
 
 
 * The Beginner's Guide
@@ -18,3 +18,4 @@ Short Games (5min-4hours length) that we play like a book club would.
 * Pushing It (Free)
 * Pom Gets Wifi (Free)
 * Subbania (Free)
+* Ib (Free)
