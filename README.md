@@ -54,6 +54,37 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Nepenthe
 * Nix Umbra
 * No One Lives Under The Lighthouse
+* Producer 2021
+* Redtape
+* Slimes
+* There Swings A Skull
+* Tide Up
+* tomorrow won't come for those without ██████
+* Universe Generator: The Golden Sword (Free)
+* Yeli Orog
+* You Will (Not) Remain (Free)
+* SWOLLEN TO BURSTING UNTIL I AM DISAPPEARING ON PURPOSE (Free)
+* Lily's Well (Free)
+* Veil Transfer (Free)
+* Rental (Free)
+* TRATEL64 (Free)
+* Garn47 (Free)
+* imscared
+* Hellkind (Free)
+* The New Flesh (Free)
+* Sayonara Sigil Sentry (Free)
+* They Grew Lungs And Drowned (Free)
+* Paranoihell
+* Peret Em Heru (Free)
+* Schuld (Free)
+* Soup 0.9 (Free)
+* Remnants (2020) (Free)
+* All Of Our Friends Are Dead
+* Dead Plate (Free)
+* Underworld Capital Incident (Free)
+* Mouth Sweet (Free)
+* Moonlit (VileRebis) (Free)
+* Momodora I (Free)
 * Plug \& Play
 * The Count Lucanor
 * OK/NORMAL
