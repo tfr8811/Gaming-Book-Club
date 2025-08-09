@@ -1,9 +1,5 @@
 # Gaming-Book-Club
-
 Short Games (15min-4hours length) that we play like a book club would.
-
-
-
 * The Beginner's Guide
 * The Stanley Parable
 * Zelle
