@@ -57,7 +57,7 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Tide Up
 * tomorrow won't come for those without ██████
 * Universe Generator: The Golden Sword (Free)
-* Yeli Orog
+* Yeli Orog (Free)
 * You Will (Not) Remain (Free)
 * SWOLLEN TO BURSTING UNTIL I AM DISAPPEARING ON PURPOSE (Free)
 * Lily's Well (Free)
