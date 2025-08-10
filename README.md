@@ -82,6 +82,15 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Moonlit (VileRebis) (Free)
 * Momodora I (Free)
 * Antumbra (Free)
+* Buggerworld (Free)
+* won't you come knocking (Free)
+* A Dark Place (2018 (Free)
+* Acrophile (Free)
+* The White Chamber (Free)
+* Morfosi (Free)
+* Flesh, Blood and Concrete (Free)
+* Veiled (Free)
+* That Which Faith Demands (Free)
 * Plug \& Play
 * The Count Lucanor
 * OK/NORMAL
