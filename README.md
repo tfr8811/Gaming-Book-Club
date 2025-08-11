@@ -92,6 +92,19 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Veiled (Free)
 * That Which Faith Demands (Free)
 * Blood Orange (Free)
+* Escaped Chasm (Free)
+* Eastern Mind: The Lost Souls of Tong Nou (Abandonware)
+* Toilet in Wonderland (Free)
+* The Curse of Utaho (Free)
+* The Dark Eye (1995) (Abandonware)
+* Alice: An Interactive Museum (Abandonware)
+* Sylvie Lime (Free)
+* Ceremony of Innocence (Abandonware)
+* Dark Tales from the Lost Soul (PSX game)
+* Dreamweb (Free)
+* Midnight Stranger (Abandonware)
+* Captain Blood (1988) (DOS)
+* Small Worlds (2009)
 * Plug \& Play
 * The Count Lucanor
 * OK/NORMAL
