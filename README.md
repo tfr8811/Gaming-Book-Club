@@ -104,7 +104,20 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Dreamweb (Free)
 * Midnight Stranger (Abandonware)
 * Captain Blood (1988) (DOS)
-* Small Worlds (2009)
+* Small Worlds (2009) (Browser)
+* Dear Substance of Kin (Free)
+* Carcass (Free)
+* Franken (Free)
+* LXD Red Honey (Free)
+* Frontiers of the Mind (Free)
+* Paper Angel (Free)
+* 31st March, Midnight (Free)
+* Eloquent Countenance (Free)
+* Etcetera (Free)
+* re:curse (Free)
+* Problem Attic (Free)
+* PLAY OF WIRE (Free)
+* The Children of Clay (Free)
 * Plug \& Play
 * The Count Lucanor
 * OK/NORMAL
