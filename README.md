@@ -91,6 +91,7 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Flesh, Blood and Concrete (Free)
 * Veiled (Free)
 * That Which Faith Demands (Free)
+* Blood Orange (Free)
 * Plug \& Play
 * The Count Lucanor
 * OK/NORMAL
