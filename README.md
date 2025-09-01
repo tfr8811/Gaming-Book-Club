@@ -143,3 +143,4 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Indika
 * Iron Lung
 * Fatum Betula
+* The Wolf's Den (FREE)
