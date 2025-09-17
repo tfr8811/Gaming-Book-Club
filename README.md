@@ -146,3 +146,6 @@ Short Games (15min-4hours length) that we play like a book club would.
 * The Wolf's Den (FREE)
 * Slay the Princess
 * 12 Minutes
+* Bee Magic by Ethan Clark (FREE)
+* Strategems by Playcebo (FREE)
+* Type Help by William Rous (FREE)
