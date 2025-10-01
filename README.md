@@ -18,6 +18,7 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Ib (Free)
 * Heisei Pistol Show (Free)
 * Mermaid Swamp (Free)
+* The Witch's House (Free)
 * Another World
 * 6 Feet Behind (Free)
 * Ann (Free)
