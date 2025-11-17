@@ -7,7 +7,6 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Zelle
 * Mario Grows a Beard (FREE)
 * Cuccchi
-* Slide With You (FREE)
 * To the Moon
 * Deltarune - Chapter 1 (FREE)
 * Hello Charlotte - Chapter 1 (FREE)
@@ -17,9 +16,7 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Pushing It (Free)
 * Pom Gets Wifi (Free)
 * Subbania (Free)
-* Ib (Free)
 * Heisei Pistol Show (Free)
-* Mermaid Swamp (Free)
 * The Witch's House (Free)
 * Another World
 * 6 Feet Behind (Free)
@@ -42,7 +39,6 @@ Short Games (15min-4hours length) that we play like a book club would.
 * ITTA
 * Kalidazkoph
 * Knock Knock
-* Kowloon's Curse: Lost Report (Free)
 * A List of People Who Went Missing in the Scheleirland National Forest
 * Anthology of the Killer
 * Loom
@@ -67,7 +63,6 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Veil Transfer (Free)
 * Rental (Free)
 * TRATEL64 (Free)
-* Garn47 (Free)
 * imscared
 * Hellkind (Free)
 * The New Flesh (Free)
@@ -80,8 +75,6 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Remnants (2020) (Free)
 * All Of Our Friends Are Dead
 * Dead Plate (Free)
-* Underworld Capital Incident (Free)
-* Mouth Sweet (Free)
 * Moonlit (VileRebis) (Free)
 * Momodora I (Free)
 * Antumbra (Free)
@@ -101,7 +94,6 @@ Short Games (15min-4hours length) that we play like a book club would.
 * The Curse of Utaho (Free)
 * The Dark Eye (1995) (Abandonware)
 * Alice: An Interactive Museum (Abandonware)
-* Sylvie Lime (Free)
 * Ceremony of Innocence (Abandonware)
 * Dark Tales from the Lost Soul (PSX game)
 * Dreamweb (Free)
@@ -112,9 +104,7 @@ Short Games (15min-4hours length) that we play like a book club would.
 * Carcass (Free)
 * Franken (Free)
 * LXD Red Honey (Free)
-* Frontiers of the Mind (Free)
 * Paper Angel (Free)
-* 31st March, Midnight (Free)
 * Eloquent Countenance (Free)
 * Etcetera (Free)
 * re:curse (Free)
@@ -142,15 +132,12 @@ Short Games (15min-4hours length) that we play like a book club would.
 * A Short Hike
 * The Unfinished Swan
 * Despelote
-* Goblet Grotto (FREE)
 * Indika
 * Iron Lung
 * Fatum Betula
 * The Wolf's Den (FREE)
 * Slay the Princess
 * 12 Minutes
-* Bee Magic by Ethan Clark (FREE)
 * Strategems by Playcebo (FREE)
-* Type Help by William Rous (FREE)
 * Star Fetchers (FREE)
 * Nekra Psaria (FREE)
