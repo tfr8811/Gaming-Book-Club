@@ -10,3 +10,5 @@
 * Bee Magic
 * Life Tastes Like Cardboard
 * Ib
+* Sylvie Lime
+* Type Help
