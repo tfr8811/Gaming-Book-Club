@@ -12,3 +12,4 @@
 * Ib
 * Sylvie Lime
 * Type Help
+* The Wolf's Den
