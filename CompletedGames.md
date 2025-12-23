@@ -13,3 +13,7 @@
 * Sylvie Lime
 * Type Help
 * The Wolf's Den
+* The Children of Clay
+* Flower
+* ENA: Dream BBQ
+* Pen Pals
