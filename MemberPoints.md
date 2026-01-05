@@ -1,10 +1,10 @@
-* Thomas: 1
-* Jacob: 3
-* Aidan: 3
+* Thomas: 2
+* Jacob: 4
+* Aidan: 4
 * Ryan: 0
 * Tim: 2
 * Jay: infinity
 * Nick: infinity
-* Ian: 0
-* Avery: infinity
+* Ian: 1
+* Avery: 0
 * Emery: infinity
