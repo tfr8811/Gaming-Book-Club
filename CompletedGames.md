@@ -17,3 +17,5 @@
 * Flower
 * ENA: Dream BBQ
 * Pen Pals
+* Dishonored
+* Heisei Pistol Show
