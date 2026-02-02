@@ -19,3 +19,6 @@
 * Pen Pals
 * Dishonored
 * Heisei Pistol Show
+* PRAGMATA Demo
+* One More Splash Screen
+* Pokemon Snap
