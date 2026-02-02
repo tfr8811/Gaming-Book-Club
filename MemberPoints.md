@@ -7,4 +7,4 @@
 * Nick: infinity
 * Ian: 3
 * Avery: 3
-* Emery: 1
+* Emery: 2
