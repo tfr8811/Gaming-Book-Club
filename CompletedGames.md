@@ -23,3 +23,4 @@
 * One More Splash Screen
 * Pokemon Snap
 * Only If
+* Hylics
