@@ -7,20 +7,21 @@
 * Kowloon's Curse: Lost Report
 * Slide With You
 * Garn47
-* Bee Magic
-* Life Tastes Like Cardboard
-* Ib
-* Sylvie Lime
-* Type Help
-* The Wolf's Den
-* The Children of Clay
-* Flower
-* ENA: Dream BBQ
-* Pen Pals
-* Dishonored
-* Heisei Pistol Show
-* PRAGMATA Demo
-* One More Splash Screen
-* Pokemon Snap
-* Only If
-* Hylics
+* Bee Magic (Aidan)
+* Life Tastes Like Cardboard (Tim)
+* Ib (Tom)
+* Sylvie Lime (Jacob)
+* Type Help (Aidan)
+* The Wolf's Den (Ryan)
+* The Children of Clay (Jacob)
+* Flower (Tim)
+* ENA: Dream BBQ (Tom)
+* Pen Pals (Ian)
+* Dishonored (Avery)
+* Heisei Pistol Show (Jacob)
+* PRAGMATA Demo 
+* One More Splash Screen (Aidan)
+* Pokemon Snap (Tom)
+* Only If (Tim)
+* Hylics 
+* The Witch's House (Jacob)
