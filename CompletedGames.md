@@ -1,12 +1,12 @@
-* Mouth Sweet
-* 31st March, Midnight.
-* FRONTIERS OF THE MIND
-* Underworld Capital Incident
-* Mermaid Swamp
-* Goblet Grotto
-* Kowloon's Curse: Lost Report
-* Slide With You
-* Garn47
+* Mouth Sweet (Jacob - randomizer)
+* 31st March, Midnight. (Jacob - randomizer)
+* FRONTIERS OF THE MIND (Jacob - randomizer)
+* Underworld Capital Incident (Jacob - randomizer)
+* Mermaid Swamp (Jacob - randomizer)
+* Goblet Grotto (Tom - randomizer)
+* Kowloon's Curse: Lost Report (Jacob - randomizer)
+* Slide With You (Tom - randomizer)
+* Garn47 (Jacob - randomizer)
 * Bee Magic (Aidan)
 * Life Tastes Like Cardboard (Tim)
 * Ib (Tom)
