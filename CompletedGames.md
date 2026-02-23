@@ -19,9 +19,9 @@
 * Pen Pals (Ian)
 * Dishonored (Avery)
 * Heisei Pistol Show (Jacob)
-* PRAGMATA Demo 
+* PRAGMATA Demo (Emery)
 * One More Splash Screen (Aidan)
 * Pokemon Snap (Tom)
 * Only If (Tim)
-* Hylics 
+* Hylics (Ian)
 * The Witch's House (Jacob)
