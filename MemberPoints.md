@@ -7,7 +7,7 @@
 * Nick: infinity
 * Ian: 0
 * Avery: 4
-* Emery: 5
+* Emery: 0
 * Swoggles: infinity
 * CJ: infinity
 * Jimmy: infinity
