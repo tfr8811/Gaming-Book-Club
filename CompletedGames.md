@@ -28,3 +28,4 @@
 * Poppy Playtime Chapter 1 (Emery)
 * Deltarune Chapter 1 (Jimmy)
 * Life Is Strange Episode 1 (CJ)
+* The Beginner's Guide (Jay)
