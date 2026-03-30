@@ -6,7 +6,7 @@
 * Jay: 0
 * Nick: infinity
 * Ian: 1
-* Avery: 5
+* Avery: 6
 * Emery: 2
 * Swoggles: infinity
 * CJ: 2
