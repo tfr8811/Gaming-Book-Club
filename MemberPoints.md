@@ -2,7 +2,7 @@
 * Jacob: 6
 * Aidan: 6
 * Ryan: 0
-* Clark: 6
+* Clark: 7
 * Jay: 0
 * Nick: infinity
 * Ian: 1
