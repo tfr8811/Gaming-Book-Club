@@ -28,5 +28,6 @@
 * Poppy Playtime Chapter 1 (Emery)
 * Deltarune Chapter 1 (Jimmy)
 * Life Is Strange Episode 1 (CJ)
+* Kururin Paradise (Tom)
 * The Beginner's Guide (Jay)
 * Grow Series: Grow Cube, Grow Valley, Grow Cannon, Grow Park (Avery)
