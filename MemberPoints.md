@@ -12,3 +12,4 @@
 * CJ: 2
 * Jimmy: 2
 * Dylan: infinity
+* Tim: infinity
