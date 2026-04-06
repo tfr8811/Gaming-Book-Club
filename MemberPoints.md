@@ -10,6 +10,6 @@
 * Emery: 2
 * Swoggles: infinity
 * CJ: 2
-* Jimmy: 2
+* Jimmy: 3
 * Dylan: infinity
 * Tim: infinity
