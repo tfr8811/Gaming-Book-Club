@@ -1,5 +1,5 @@
-* Thomas: 3
-* Jacob: 7
+* Thomas: 4
+* Jacob: 8
 * Aidan: 6
 * Ryan: 0
 * Clark: 8
@@ -9,7 +9,7 @@
 * Avery: 0
 * Emery: 3
 * Swoggles: infinity
-* CJ: 2
-* Jimmy: 3
+* CJ: 3
+* Jimmy: 4
 * Dylan: 0
-* Tim: infinity
+* Tim: 0
