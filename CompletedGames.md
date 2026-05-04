@@ -34,3 +34,4 @@
 * Project Lunky (Dylan)
 * The Looker (Tim (tint))
 * Frog Fractions (Morgan)
+* Horsey Game (Jacob)
