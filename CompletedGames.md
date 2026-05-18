@@ -35,3 +35,5 @@
 * The Looker (Tim (tint))
 * Frog Fractions (Morgan)
 * Horsey Game (Jacob)
+* WarioWare, Inc.: Mega Microgame$! (Tom)
+* Five Nights At Freddy's (Jimmy)
