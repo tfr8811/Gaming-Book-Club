@@ -37,3 +37,4 @@
 * Horsey Game (Jacob)
 * WarioWare, Inc.: Mega Microgame$! (Tom)
 * Five Nights At Freddy's (Jimmy)
+* Doki Doki Literature Club (Jay)
