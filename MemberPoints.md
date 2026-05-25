@@ -1,9 +1,9 @@
 * Thomas: 1
-* Jacob: 2
+* Jacob: 3
 * Aidan: 6
 * Ryan: 0
 * Clark: 8
-* Jay: 3
+* Jay: 0
 * Nick: infinity
 * Ian: 1
 * Avery: 0
