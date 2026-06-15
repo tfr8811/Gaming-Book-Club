@@ -39,3 +39,5 @@
 * Five Nights At Freddy's (Jimmy)
 * Doki Doki Literature Club (Jay)
 * Space Funeral (Jacob)
+* Strategems (Aidan)
+* It Steals (Ian)
