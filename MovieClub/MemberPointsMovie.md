@@ -1,3 +1,3 @@
-* Jacob: 1
-* Tim: 0
-* Tom: 1
+* Jacob: 2
+* Tim: 1
+* Tom: 0
