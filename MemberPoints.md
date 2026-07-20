@@ -3,7 +3,7 @@
 * Aidan: 2
 * Ryan: 0
 * Clark: 8
-* Jay: 1
+* Jay: 2
 * Nick: infinity
 * Ian: 4
 * Avery: 4
