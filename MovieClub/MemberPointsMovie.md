@@ -1,4 +1,4 @@
-* Jacob: 0
-* Tim: 2
-* Tom: 1
-* Jay: 1
+* Jacob: 1
+* Tim: 0
+* Tom: 2
+* Jay: 2
