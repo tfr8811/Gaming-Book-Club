@@ -1,6 +1,6 @@
-* Jacob: 2
-* Tim: 1
-* Tom: 3
-* Jay: 0
-* Jimmy: infinite
+* Jacob: 3
+* Tim: 2
+* Tom: 4
+* Jay: 1
+* Jimmy: 0
 * Mary: infinite
