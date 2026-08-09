@@ -4,3 +4,4 @@
 * Now, Voyager (Jacob)
 * Johnny Mnemonic (Tim)
 * Bill and Ted's Excellent Adventure (Jay)
+* Dragon Ball Z: Broly (Jimmy)
