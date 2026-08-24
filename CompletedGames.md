@@ -48,3 +48,6 @@
 * Staircore (Tom)
 * Mesmalie (Avery)
 * Kitty Kart 64 (Sly)
+* Horse Magnifier (Tim (tint))
+* Öoo (Ian)
+* The Murder of Sonic the Hedgehog (Jimmy)
