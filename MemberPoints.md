@@ -1,5 +1,5 @@
-* Thomas: 0
-* Jacob: 3
+* Thomas: 1
+* Jacob: 0
 * Aidan: 6
 * Ryan: 0
 * Clark: 8
