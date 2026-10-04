@@ -11,3 +11,5 @@
 * Hackers (Tim)
 * Zachariah (Jay)
 * Dragon Ball Super Super Hero (Jimmy)
+* Point Break (Tom)
+* Cat People (1942)
