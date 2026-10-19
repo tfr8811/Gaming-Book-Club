@@ -1,4 +1,4 @@
-* Thomas: 1
+* Thomas: 2
 * Jacob: 3
 * Aidan: 0
 * Ryan: 0
