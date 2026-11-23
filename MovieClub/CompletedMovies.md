@@ -19,3 +19,4 @@
 * Over the Garden Wall (Tom)
 * The Lady Vanishes (1938) (Jacob)
 * Speed Racer (2008) (Tim)
+* Edward Scissorhands (Jay)
