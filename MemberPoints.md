@@ -12,7 +12,7 @@
 * CJ: 3
 * Jimmy: 2
 * Dylan: 0
-* Tim: 1
+* Tim: 2
 * Morgan: 0
 * Sly: 3
 * Calvin: infinity
