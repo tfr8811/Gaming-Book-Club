@@ -62,3 +62,4 @@
 * Kirby Super Star (Jimmy)
 * Mad Father (Jacob)
 * Walkable Cities (Tom)
+* Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist (Jay)
